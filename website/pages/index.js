@@ -34,12 +34,6 @@ const Home = () => {
               <p>Its an open-source project. If you don't like how the government works, fork-it or make a pull request :)</p>
             </a>
           </Link>
-          {/* <Link href="https://github.com/zeit/next.js/tree/master/examples">
-            <a className="card">
-              <h3>Examples &rarr;</h3>
-              <p>Find other example boilerplates on the Next.js GitHub.</p>
-            </a>
-          </Link> */}
           <Link href="https://github.com/zachdoty/utopialand">
             <a className="card">
               <h3>Apply for Citizenship &rarr;</h3>
