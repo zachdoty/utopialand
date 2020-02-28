@@ -31,7 +31,7 @@ const Home = () => {
           <Link href="https://github.com/zachdoty/utopialand">
             <a className="card">
               <h3>View on Github &rarr;</h3>
-              <p>Its an open-source project. If you don't like how the government works, fork-it or make a pull request :)</p>
+              <p>Its an open-source project for software-defined government. Politics is better when you can make a pull request.</p>
             </a>
           </Link>
           <Link href="https://github.com/zachdoty/utopialand">
