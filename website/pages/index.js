@@ -37,7 +37,7 @@ const Home = () => {
           <Link href="https://github.com/zachdoty/utopialand">
             <a className="card">
               <h3>Apply for Citizenship &rarr;</h3>
-              <p>Utopia is accepting citizenship applications.</p>
+              <p>Utopia is accepting citizenship applications. Its quick and easy to apply.</p>
             </a>
           </Link>
         </div>
